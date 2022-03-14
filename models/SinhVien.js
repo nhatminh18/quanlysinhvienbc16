@@ -14,5 +14,8 @@ function SinhVien () {
         return dtb;
     }
 
+    this.hienThi = function () {
+        console.log('Hien thi thong tin');
+    }
 }
 
