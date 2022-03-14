@@ -17,5 +17,9 @@ function SinhVien () {
     this.hienThi = function () {
         console.log('Hien thi thong tin');
     }
-}
+    
+    this.xepLoai = function () {
+        console.log('Xếp loại');
+    }
 
+}
